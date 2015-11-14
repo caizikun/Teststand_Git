@@ -1,0 +1,3 @@
+StationOptions.PreloadProgressDelay özelliðini -1 olarak deðiþtirdim. Bu sayede
+PreloadProgress dialog'u devre dýþý kaldý.
+
